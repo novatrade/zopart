@@ -10,7 +10,7 @@
    <body>
       <div id="Container">
          <div id="Header">
-            <span id="Logo">ZopArt</span>
+            <span id="Logo">ZopArt 2</span>
          </div>
       </div>
    </body>
